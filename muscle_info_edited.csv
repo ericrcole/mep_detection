@@ -1,0 +1,13 @@
+muscle,num_patients,num_settings,pct_excluded,latency_range
+contra ECR,53,1434,12.34309623,15-35
+contra FCR,41,1178,13.24278438,13.0-33.0
+contra FDI,41,1249,12.57005604,18.5-31.5
+contra bicep,17,763,11.40235911,10-31.5
+contra genio,7,277,22.38267148,4.0-18.0
+contra nasal,38,1169,10.86398631,4.0-19.5
+contra ocul,1,23,8.695652174,4.0-19.5
+contra oris,31,935,14.54545455,4.0-19.5
+ipsi genio,2,80,0,4.0-18.0
+ipsi nasal,21,734,16.89373297,4.0-19.5
+ipsi ocul,1,23,8.695652174,4.0-19.5
+ipsi oris,15,500,22.2,4.0-19.5
